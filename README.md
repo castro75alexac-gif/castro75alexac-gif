@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Lab](https://github.com/castro75alexac-gif/Active-Directory-Lab)
-  - [Azure HoneyPot VM](https://github.com/castro75alexac-gif/Azure-HoneyPot-VM)
+  - [Azure Honeypot VM Lab](https://github.com/castro75alexac-gif/Azure-HoneyPot-VM)
   - [Add Other Here](https://github.com/castro75alexac-gif/Add-Other-Project-Here)
 
 <h2>👨‍💻 Ceritifications:</h2>
