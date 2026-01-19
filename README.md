@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Azure HoneyPot VM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Add Other Here](https://github.com/joshmadakor1/Sentinel-Lab)
 
